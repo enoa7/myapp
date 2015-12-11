@@ -18,36 +18,40 @@ var gzip_options = {
 
 // compile our sass
 gulp.task('sass', function() {
-	return gulp.src('scss/*.scss')
-		.pipe(sass())
-		.pipe(gulp.dest('dist/stylesheets'))
-		.pipe(rename({suffix: '.min'}))
-		.pipe(minifycss())
-		.pipe(gulp.dest('dist/stylesheets'))
-		.pipe(gzip(gzip_options))
-		.pipe(gulp.dest('dist/stylesheets'))
-		.pipe(livereload());
+	return gulp.src('app/scss/*.scss')
+		.pipe(sass()) //compile with libsass
+		.pipe(gulp.dest('app/stylesheets')) //put it in stylesheets inside dist folder
+		.pipe(rename({suffix: '.min'})) //add suffix
+		.pipe(minifycss()) //minify the file
+		.pipe(gulp.dest('app/stylesheets')) //again put it in the stylesheets
+		.pipe(gzip(gzip_options)) //compress it
+		.pipe(gulp.dest('app/stylesheets')) //and again
+		.pipe(livereload()); //and watch for changes with livereload
 });
 
 // compile our js files
 gulp.task('scripts', function(){
 	return gulp.src([
-			'bower_components/foundation/js/foundation.js',
-			'bower_components/foundation/js/vendor/*.js',
-			'dev/js/app.js'
+			'**/foundation/js/vendor/jquery.js',
+			'**/foundation/js/vendor/custom.modernizr.js',
+			'**/foundation/js/vendor/zepto.js',
+			'!**/foundation/js/foundation/index.js',
+			'**/foundation/js/foundation/foundation.js',
+			'**/foundation/js/foundation/*.js',
+			'**/js/app.js'
 		])
 		.pipe(concat('main.js'))
-		.pipe(gulp.dest('dist/js'))
+		.pipe(gulp.dest('app/js'))
 		.pipe(rename({suffix: '.min'}))
 		.pipe(uglify())
-		.pipe(gulp.dest('dist/js'));
+		.pipe(gulp.dest('app/js'));
 });
 
 // watch files for changes
 gulp.task('watch', function() {
 	livereload.listen();
-	gulp.watch('scss/*.scss', ['sass']); //watch scss files
-	gulp.watch('dev/js/*.js', ['scripts']); //watch dev js files
+	gulp.watch('app/scss/*.scss', ['sass']); //watch scss files
+	gulp.watch('app/js/app.js', ['scripts']); //watch app js files
 
 	// trigger a live reload on any Django template changes
 	// gulp.watch('**/templates/*').on('change', livereload.changed);
