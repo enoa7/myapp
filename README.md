@@ -1,2 +1,3 @@
-# My App
-Test environtment for Gulp
+# Code Lab
+Testing Environtment
+Current test: Zurb & Gulp

@@ -1,0 +1,1659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cms",
+				"col-sm-5"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tra",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"get",
+				"getHref2"
+			],
+			[
+				"mai",
+				"main-banner"
+			],
+			[
+				"clone",
+				"cloneMegamenu"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-top-style"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"backgru",
+				"background"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"item",
+				"itemStatus"
+			],
+			[
+				"ca",
+				"capitalize	(_page-nav.scss)"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"main",
+				"main-color	 _nav.scss"
+			],
+			[
+				"fun",
+				"function	(functions.php)"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"space",
+				"spacepad"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"opca",
+				"opacity	opacity()"
+			],
+			[
+				"ita",
+				"italic"
+			],
+			[
+				"header",
+				"header_nav	(nav.php)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"media",
+				"media landscape	landscape"
+			],
+			[
+				"vertical",
+				"vertical-align-nofloat	 _kodein.scss"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"con",
+				"contact_us"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"cuso",
+				"customers"
+			],
+			[
+				"nav-",
+				"nav-mobile"
+			],
+			[
+				"set",
+				"set_rules	(my_model.php)"
+			],
+			[
+				"form",
+				"form_validation	(my_model.php)"
+			],
+			[
+				"content",
+				"content-title	 yudi.scss"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"smoo",
+				"smoothscroll	(contentadmin-script.js)"
+			],
+			[
+				"bl",
+				"blackgarlic"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"menu",
+				"menu-list	 main.scss"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inser",
+				"insert_id	(my_model.php)"
+			],
+			[
+				"update",
+				"updated_at	(my_model.php)"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"per",
+				"per_page	(my_model.php)"
+			],
+			[
+				"no",
+				"no_peserta"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"bulan",
+				"bulan_array"
+			],
+			[
+				"hari",
+				"hari_array"
+			],
+			[
+				"db_",
+				"db_cipsb	(database.php)"
+			],
+			[
+				"spad",
+				"spacepad"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"video",
+				"video-menu	 yudi.scss"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"vide",
+				"video-content"
+			],
+			[
+				"in",
+				"include	(index.php)"
+			],
+			[
+				"size",
+				"sizeValue"
+			],
+			[
+				"spar",
+				"sparkling-featured"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"mobile",
+				"mobile-size"
+			],
+			[
+				"is_page",
+				"is_page_template"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"tar",
+				"targetId"
+			],
+			[
+				"preloader",
+				"preloaderImg"
+			],
+			[
+				"play",
+				"playgame	(singtel.html)"
+			],
+			[
+				"preloa",
+				"preloader-static"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"active",
+				"active"
+			],
+			[
+				"tile",
+				"tile-list	 main.css"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"nomar",
+				"nomarginbottom"
+			],
+			[
+				"sec",
+				"secondary_color	 main.css"
+			],
+			[
+				"pri",
+				"primary_color	 main.css"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"img",
+				"img-responsive	 main.css"
+			],
+			[
+				"primar",
+				"primary_font	 main.css"
+			],
+			[
+				"ourwok",
+				"our-works-list-category"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"prim",
+				"primary_font	 main.css"
+			],
+			[
+				"section",
+				"section-title	 main.scss"
+			],
+			[
+				"circl",
+				"circle-list	 main.css"
+			],
+			[
+				"alt",
+				"alt_color_two	 _navigation.scss"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"center",
+				"center-block	 main.css"
+			],
+			[
+				"about",
+				"about-us	 main.scss"
+			],
+			[
+				"our",
+				"ourphilosophy"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"wire",
+				"wire-bg	 main.scss"
+			],
+			[
+				"al",
+				"alt_color_one	 main.css"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"animatio",
+				"animation1	(garam.html)"
+			],
+			[
+				"title",
+				"title_bg"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"sp",
+				"spacemar	 utility.scss"
+			],
+			[
+				"mit",
+				"mitzi-search	 main.scss"
+			],
+			[
+				"ta",
+				"tab-pane"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"ad",
+				"addEventListeners"
+			],
+			[
+				"dra",
+				"draggable"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"filer",
+				"fileread"
+			],
+			[
+				"image",
+				"imageFileName	(app.js)"
+			],
+			[
+				"data",
+				"dataTransfer"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"che",
+				"checkSize"
+			],
+			[
+				"pro",
+				"processDragOverOrEnter"
+			],
+			[
+				"can",
+				"canvasCtrl	(main.html)"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"nopadding",
+				"nopadding"
+			],
+			[
+				"drag",
+				"dropimage	(main.html)"
+			],
+			[
+				"location",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"controll",
+				"controller	AngularJS"
+			],
+			[
+				"rote",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"control",
+				"controller	AngularJS"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2057,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/stylesheets/main.css",
+			"settings":
+			{
+				"buffer_size": 141566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1944,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 105.0,
+		"last_filter": "html5",
+		"selected_items":
+		[
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"syn javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Snippet: html5-bs-jquery-latest-template"
+			],
+			[
+				"synjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"bs form",
+				"Snippet: bs3-form"
+			],
+			[
+				"jum",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"boots",
+				"Snippet: bootstrap-img-template"
+			],
+			[
+				"img",
+				"Snippet: bootstrap-img-template"
+			],
+			[
+				"template",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"button",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn jaava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"img-",
+				"Snippet: bootstrap-img-template"
+			],
+			[
+				"syn scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"jumb",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sy css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"img	",
+				"Snippet: bs3-image"
+			],
+			[
+				"syn  scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syn  angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"syn angul",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syn tax css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"package c d",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn  html",
+				"Set Syntax: HTML"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syn javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htyml",
+				"Snippet: html5-bs-jquery-latest-template"
+			],
+			[
+				"jquery",
+				"Snippet: jquery-ready"
+			],
+			[
+				"@",
+				"Snippet: @media"
+			],
+			[
+				"@media",
+				"Snippet: CSS - @media {}"
+			],
+			[
+				"@med",
+				"Snippet: CSS - @media {}"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syn ssas",
+				"Set Syntax: Sass"
+			],
+			[
+				"syn ssa",
+				"Set Syntax: Sass"
+			],
+			[
+				"syn sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"syn xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntini",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"glyp",
+				"Snippet: bs3-glyphicon"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"glyph",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"read",
+				"Snippet: jquery-ready"
+			],
+			[
+				"jqer",
+				"Snippet: jquery-docready"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"gly",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-icon"
+			],
+			[
+				"modal",
+				"Snippet: bs3-modal"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 512.0,
+		"history":
+		[
+			"git status",
+			"git clone https://github.com/flowjs/ng-flow",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"git clone https://github.com/bitbonsai/sublime-jquery-snippets.git \"jQuery-Snippets\"",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/code/webdev/myapp",
+		"/E/code/webdev/myapp/app",
+		"/E/code/webdev/myapp/app/scss",
+		"/E/code/webdev/myapp/app/stylesheets",
+		"/E/code/webdev/myapp/node_modules/foundation",
+		"/E/code/webdev/myapp/node_modules/foundation/js",
+		"/E/code/webdev/myapp/node_modules/foundation/js/foundation",
+		"/E/code/webdev/myapp/node_modules/foundation/js/vendor"
+	],
+	"file_history":
+	[
+		"/E/code/webdev/myapp/.git/info/exclude",
+		"/C/Users/gamal/Downloads/agency.html",
+		"/E/code/webdev/myapp/app/scss/main.scss",
+		"/C/Users/gamal/Downloads/portfolio.html",
+		"/E/code/webdev/myapp/node_modules/foundation/README.md",
+		"/E/code/webdev/myapp/gulpfile.js",
+		"/E/code/webdev/myapp/app/js/app.js",
+		"/E/code/webdev/myapp/app/stylesheets/main.css",
+		"/E/code/webdev/myapp/app/js/main.js",
+		"/E/code/webdev/myapp/app/scss/_main_settings.scss",
+		"/E/code/webdev/myapp/app/scss/_kodein.scss",
+		"/E/code/webdev/myapp/package.json",
+		"/E/code/webdev/myapp/node_modules/foundation/js/foundation/foundation.alerts.js",
+		"/E/code/webdev/myapp/scss/main.scss",
+		"/E/code/webdev/myapp/dist/js/main.min.js",
+		"/E/code/webdev/myapp/node_modules/foundation/js/foundation/index.js",
+		"/E/code/webdev/myapp/node_modules/foundation/scss/foundation.scss",
+		"/E/code/webdev/myapp/bower.json",
+		"/E/code/wamp/www/petarung/cms/koneksi.php",
+		"/E/code/wamp/www/petarung/cms/page-ulasan-testing.php",
+		"/E/old_project/codelab/base/tgg/concierge-claim/db_config.php",
+		"/E/code/wamp/www/petarung/cms/template/footer.php",
+		"/E/code/wamp/www/petarung/cms/asset/style/_page-nav.scss",
+		"/E/code/wamp/www/petarung/cms/template/head2.php",
+		"/E/code/wamp/www/petarung/cms/template/page-nav.php",
+		"/E/code/wamp/www/petarung/cms/head.php",
+		"/E/code/wamp/www/petarung/cms/head2.php",
+		"/E/code/wamp/www/petarung/cms/index.php",
+		"/E/code/wamp/www/petarung/cms/template/head.php",
+		"/E/code/wamp/www/petarung/cms/detailberita.php",
+		"/E/code/wamp/www/petarung/cms/admin/style/admin-style.css",
+		"/E/code/wamp/www/petarung/cms/asset/main.scss",
+		"/E/code/wamp/www/petarung/cms/test-berita2/page-ulasan-testing.php",
+		"/E/code/wamp/www/indosiar21/asset/style/_footer.scss",
+		"/E/code/wamp/www/indosiar21/gulpfile.js",
+		"/E/code/wamp/www/indosiar21/asset/base.js",
+		"/E/code/wamp/www/indosiar21/README.md",
+		"/E/code/wamp/www/indosiar21/overlay-menu.php",
+		"/E/code/wamp/www/indosiar21/nav.php",
+		"/E/code/wamp/www/indosiar21/asset/style/_nav.scss",
+		"/E/code/wamp/www/indosiar21/index.php",
+		"/E/code/wamp/www/indosiar21/asset/style/_override.scss",
+		"/E/code/wamp/www/indosiar21/asset/main.scss",
+		"/E/code/wamp/www/indosiar21/package.json",
+		"/E/code/wamp/www/indosiar21/.git/info/exclude",
+		"/C/Users/gamal/Documents/GitHub/web-starter-kit/app/basic.html",
+		"/E/code/wamp/www/web-starter-kit/app/index.html",
+		"/E/code/wamp/www/web-starter-kit/package.json",
+		"/E/code/xampp/htdocs/yudidatau/wp-content/themes/sparkling-child/README.txt",
+		"/E/code/wamp/www/indosiar21/tst.html",
+		"/E/code/wamp/www/indosiar21/footer.php",
+		"/E/code/wamp/www/sctvawards2015/asset/sass/_kategori.scss",
+		"/E/code/wamp/www/sctvawards2015/asset/main.scss",
+		"/E/code/wamp/www/petarung/asset/style/_page-ulasan.scss",
+		"/E/code/wamp/www/petarung/asset/style/_page-nav.scss",
+		"/E/code/wamp/www/indosiar21/asset/style/_partials/_nav.scss",
+		"/E/code/wamp/www/indosiar21/asset/main.js",
+		"/E/code/wamp/www/petarung/asset/style/_fonts.scss",
+		"/E/code/wamp/www/petarung/asset/main.scss",
+		"/E/code/wamp/www/petarung/main.css",
+		"/E/code/wamp/www/indosiar21/asset/style/_base.scss",
+		"/E/old_project/codelab/base/tgg/contentadmin-script.js",
+		"/E/old_project/codelab/base/tgg/ca-pdp-script.js",
+		"/E/code/wamp/www/indosiar21/header.php",
+		"/E/code/wamp/www/indosiar21/asset/style/_partials/_rem.scss",
+		"/E/code/wamp/www/indosiar21/asset/style/_variables.scss",
+		"/E/code/wamp/www/jeff/package.json",
+		"/E/code/wamp/www/jeff/bower.json",
+		"/E/code/wamp/www/indosiar21/functions.php",
+		"/E/code/wamp/www/indosiar21/asset/images/indosiar21-logo.svg",
+		"/E/code/wamp/www/indosiar21/node_modules/gulp-livereload/index.js",
+		"/E/code/wamp/www/indosiar21/node_modules/gulp-livereload/package.json",
+		"/E/code/wamp/www/jeff/Gruntfile.js",
+		"/E/code/wamp/www/petarung/asset/vendor/jquery-circle-progress/README.md",
+		"/E/code/wamp/www/petarung/asset/vendor/jquery-circle-progress/package.json",
+		"/E/code/wamp/www/petarung/asset/vendor/jquery-circle-progress/tests/tests.js",
+		"/E/code/wamp/www/petarung/page-nav.php",
+		"/E/code/wamp/www/petarung/footer.php",
+		"/E/code/wamp/www/petarung/functions.php",
+		"/E/code/wamp/www/petarung/page-ulasan.php",
+		"/E/code/wamp/www/petarung/asset/style/_var.scss",
+		"/E/code/wamp/www/petarung/asset/style/_page-header.scss",
+		"/E/code/wamp/www/petarung/page-header.php",
+		"/E/code/wamp/www/petarung/index.php",
+		"/E/code/wamp/www/petarung/head.php",
+		"/E/code/wamp/www/petarung/asset/style/_footer.scss",
+		"/E/code/wamp/www/petarung/asset/style/_base.scss",
+		"/E/code/wamp/www/petarung/asset/style/_partials/_utility-mixin.scss",
+		"/E/code/wamp/www/petarung/asset/style/_nav.scss",
+		"/E/code/wamp/www/petarung/.git/info/exclude",
+		"/E/code/wamp/www/petarung/cms/test-berita2/admin/berita.php",
+		"/E/code/wamp/www/petarung/cms/test-berita2/admin/edit_berita.php",
+		"/E/code/wamp/www/petarung/cms/test-berita2/admin/add_berita.php",
+		"/E/code/wamp/www/petarung/cms/test-berita2/index.php",
+		"/E/code/wamp/www/petarung/cms/test-berita2/detailberita.php",
+		"/E/code/wamp/www/petarung/cms/test-berita2/admin/index.php",
+		"/C/Users/gamal/Desktop/raker-monolog.txt",
+		"/E/code/kodein-template/asset/style/_base.scss",
+		"/E/code/wamp/www/petarung/nav.php",
+		"/E/code/wamp/www/petarung/asset/main.js",
+		"/E/code/wamp/www/petarung/asset/style/_partials/_color-mixin.scss",
+		"/E/code/wamp/www/petarung/asset/style/_icons.scss",
+		"/E/code/kodein-template/asset/style/_partials/_color-mixin.scss",
+		"/E/code/kodein-template/asset/style/_partials/_font-mixin.scss",
+		"/E/code/wamp/www/petarung/asset/style/_kodein.scss",
+		"/E/code/wamp/www/petarung/fonts/d0460e5c2d5d7f9bc5e6/_mixins.scss",
+		"/E/code/wamp/www/petarung/asset/images/icons/social_icons.svg",
+		"/E/code/wamp/www/petarung/asset/main.css",
+		"/E/code/wamp/www/sctvawards2015/kuis.php",
+		"/E/code/wamp/www/sctvawards2015/main_banner.php",
+		"/E/code/wamp/www/sctvawards2015/footer.php",
+		"/E/code/wamp/www/sctvawards2015/header.php",
+		"/E/code/wamp/www/sctvawards2015/Capfile",
+		"/E/code/wamp/www/petarung/header.php",
+		"/C/Users/gamal/Downloads/modernizr-custom.js",
+		"/E/code/wamp/www/petarung/asset/vendor/modernizr.js",
+		"/E/code/wamp/www/petarung/asset/vendor/bootstrap/js/bootstrap.min.js",
+		"/E/code/wamp/www/petarung/asset/index.php",
+		"/E/code/wamp/www/petarung/asset/vendor/slick/component.json",
+		"/E/code/wamp/www/petarung/asset/vendor/slick/slick.jquery.json",
+		"/E/code/wamp/www/petarung/asset/vendor/bootstrap/templates/project/styles.sass",
+		"/E/code/wamp/www/petarung/asset/vendor/bootstrap/templates/project/_bootstrap-variables.sass",
+		"/C/Users/gamal/Desktop/report.txt",
+		"/E/code/wamp/www/.git/config",
+		"/E/code/wamp/www/.git/HEAD",
+		"/E/code/xampp/htdocs/yudidatau/wp-content/themes/sparkling-child/style.css",
+		"/E/code/xampp/htdocs/yudidatau/wp-content/themes/sparkling-child/footer.php",
+		"/E/code/xampp/htdocs/yudidatau/wp-content/themes/sparkling/footer.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"founda",
+			"alert",
+			"alter",
+			"alert",
+			"alter",
+			"founda",
+			"kode",
+			"kod",
+			"kodein",
+			"node_modules",
+			"name : 'alerts'",
+			"name : 'alerts',",
+			"foundation alert",
+			"found",
+			"alert",
+			"fo",
+			"foundation",
+			" ?>",
+			"”",
+			"content",
+			"7",
+			"24c296",
+			"“",
+			"”",
+			"container",
+			"icon",
+			".header_form",
+			"sear",
+			"menu-list",
+			"fill=\"#A6A8AB\"",
+			" display=\"none\"",
+			"display=\"none\"",
+			"img ",
+			"ajax-loader",
+			"loader",
+			"img-responsive",
+			"button",
+			"style",
+			"st",
+			"style",
+			"name",
+			"id=\"\"",
+			"preventDe",
+			"hammer",
+			"mobile-carousel",
+			"carousel-example-generic",
+			"FastClick",
+			"fastcl",
+			"fastcll",
+			"font",
+			"vendor",
+			"font",
+			"../font",
+			"//",
+			"body",
+			"font",
+			"81",
+			"<div class=\"header\">\n                <ul class=\"language\">\n                    <li><a href=\"#indonesia\">Indonesia</a></li>\n                    <li><a href=\"#english\">English</a></li>\n                </ul>\n            </div>",
+			"mitzi-logo",
+			"col-xs-12 col-sm-6 col-md-4 spacepad",
+			"icon-list",
+			"col-xs-12 col-sm-6 col-md-4",
+			"car-info",
+			"spacemar",
+			"search",
+			"col-sm-6",
+			"go",
+			"form",
+			"video",
+			"vide-",
+			"#DA4453",
+			"DA4453",
+			"#be1622",
+			"#9e151a",
+			"featured-image",
+			"font",
+			"../fonts",
+			"background",
+			"glyph",
+			"glyp",
+			"blackgarlic",
+			"subscribe",
+			"Subscribe",
+			"subscribe",
+			"skrollr",
+			"ourworks-graphicdesign-slide2",
+			"img/",
+			"img",
+			".nav.navbar-nav",
+			"div",
+			"endif",
+			"?",
+			"?>",
+			"php",
+			"portfolio",
+			"sparkling_header_men",
+			"sparkling_header",
+			"sparkling_",
+			"sparkling-",
+			"sparkling-header",
+			"header_image",
+			"header",
+			"wp",
+			"header",
+			"@media screen and (max-width: 768px)",
+			"r",
+			"row",
+			"sparkling_setup",
+			"thumb",
+			"  add_image_size",
+			"sparkling-featured",
+			"thumb",
+			"main-conten",
+			"get_head",
+			"sparkling_main_content_bootstrap_classes",
+			"col-md-8",
+			"function",
+			"sidebar",
+			"side",
+			"sparkling-bootstrapjs",
+			"sparkling_content_width",
+			"full",
+			"wp_head",
+			"wp_",
+			"wp_head",
+			"site",
+			"header",
+			"fontawesome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"**",
+			"\"",
+			"$main-color-one",
+			"\"",
+			"",
+			"img class=\"img-responsive\"",
+			"",
+			"main-banner-carousel",
+			"mainbanner-carousel",
+			"mobile-carousel",
+			"*",
+			"<div class=\"header\">\n                <ul class=\"language nodots nopadding\">\n                    <li class=\"col-sm-6\"><a href=\"#indonesia\">Indonesia</a></li>\n                    <li class=\"col-sm-6\"><a href=\"#english\">English</a></li>\n                </ul>\n            </div>",
+			"mitzi-logo spacemar",
+			"col-xs-12 col-sm-6 col-md-4",
+			"col-xs-12 col-sm-6 col-md-4 spacepad",
+			"car-info spacemar",
+			"col-xs-12 col-sm-6 col-md-4",
+			"$main-color",
+			"$gradient-light",
+			"$gradient-dark",
+			"../asset/bootstrap_3_3_5/fonts",
+			"ourworks-graphicdesign-slide1",
+			"@include bp-small",
+			"",
+			"../",
+			".main-wrap",
+			"",
+			"../yudi/stylesheet/fonts/",
+			"../fonts/",
+			"div",
+			"fonts/",
+			".score",
+			"timer",
+			"fonts",
+			"tile-content clearfix spacepad",
+			"graphic-carousel",
+			"garam-carousel",
+			"fa",
+			"1",
+			"rockwell",
+			"<h2>",
+			"",
+			"about-us",
+			"$secondary_color",
+			"$primary_color",
+			"content",
+			"",
+			"content-list",
+			"content",
+			"product",
+			"",
+			"_partial/",
+			"81",
+			"8080",
+			"81",
+			"80",
+			"81",
+			".4s",
+			".2s",
+			".1",
+			"",
+			"ease-in-out",
+			"col-xs-12 col-sm-9",
+			"col-xs-12 col-sm-9 nopadding",
+			"col-xs-12 col-sm-9",
+			"col-xs-12 col-sm-3",
+			"col-xs-12 col-sm-8",
+			"col-xs-12 col-sm-4",
+			"<div class=\"col-xs-12 col-sm-10\"><select",
+			"<div class=\"col-xs-12 col-sm-10\"><input",
+			"",
+			"20px",
+			"circle",
+			"",
+			"div",
+			"rotate-linear-2",
+			"box-rotate-linear-2",
+			"rotate-linear-2",
+			"rotate-linear-1",
+			"animation-1",
+			"$banner-bg",
+			"/assets/",
+			"vendor/bootstrap-sass-official/assets/",
+			"/",
+			"",
+			"left",
+			"bottom",
+			"right",
+			"top",
+			"padding",
+			"left",
+			"bottom",
+			"right",
+			"home_carousel",
+			"mycarousel",
+			"Apache",
+			"Strategic6",
+			"999",
+			"#carousel",
+			"",
+			"..www/font/glyphicons-halflings-regular"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								913,
+								913
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/stylesheets/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122478,
+								122478
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83434.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1293,
+								1293
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Seti_UI/Langs/Gulpfile JS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "codelab.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"code\\geralt\\marcie\\asset\\css\\marcie.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
