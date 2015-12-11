@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Gamal Ardi Pratama <gamal.pratama@sctv-jkt.tv>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "foundation": "~5.5.3"
+  }
+}
